@@ -4,12 +4,19 @@ to contribute Just add your links here
 ## Learn version control
 [Git Tutorial](https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940)
 
-## Best Youtubers (Listed Alphabetically)
+## Best Youtubers
 - [Andy Sterkowitz](https://www.youtube.com/channel/UCZ9qFEC82qM6Pk-54Q4TVWA)
+- [CodingPhase](https://www.youtube.com/channel/UC46wWUso9H5KPQcoL9iE3Ug)
+- [Derek Banas](https://www.youtube.com/user/derekbanas)
+- [programming Knowledge](https://www.youtube.com/user/ProgrammingKnowledge)
+- [java Brains](https://www.youtube.com/user/koushks)
+- [stefan Mischook](https://www.youtube.com/user/killerphp)
+- [Bulldog Mindset](https://www.youtube.com/channel/UCFxdcuY-S6yjZGq_2cjilHg)
 - [codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw) <br>
 - [CodingPhase](https://www.youtube.com/channel/UC46wWUso9H5KPQcoL9iE3Ug)
 - [Design Course](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow) <br>
 - [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
+- [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
 - [Joshua Fluke](https://www.youtube.com/channel/UC-91UA-Xy2Cvb98deRXuggA)
 - [onlineTutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
 - [TechSith Tutorials](https://www.youtube.com/channel/UCbGZKLIHpox2l0whz6_RYyg "TechSith Tutorials")
