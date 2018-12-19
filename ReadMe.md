@@ -47,7 +47,8 @@ to contribute Just add your links here
  - [Learn PHP 7 and Laravel Master Course](https://www.udemy.com/learn-php-7-and-laravel-master-course/) - Joe Santos
 
 ## Best Udemy Courses
-
+ - [omplete Javascript Course by: Jonas Schmedtmann](https://www.udemy.com/the-complete-javascript-course/ "Complete Javascript Course")
+ - [Modern React with Redux by: Stephen Grider](https://www.udemy.com/react-redux/ "React/Redux Course)
 ## Best Bootcamps
 
 ## Best Laptops
