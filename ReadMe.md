@@ -1,9 +1,6 @@
 # Open Source Resource Website
 to contribute Just add your links here
 
-## Tutorials
-- [Git Tutorial](https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940)
-- [Web Designer Depot](https://www.webdesignerdepot.com/2018/09/the-freelancers-guide-to-paying-tax/) - The Freelancer's Guide to Paying Tax
 
 ## Best Youtubers
 - [codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw) <br>
@@ -15,6 +12,10 @@ to contribute Just add your links here
 - [onlineTutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
 - [Andy Sterkowitz](https://www.youtube.com/channel/UCZ9qFEC82qM6Pk-54Q4TVWA)
 - [TechSith Tutorials](https://www.youtube.com/channel/UCbGZKLIHpox2l0whz6_RYyg "TechSith Tutorials")
+
+## Free Tutorials
+- [Git Tutorial](https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940)
+- [Web Designer Depot](https://www.webdesignerdepot.com/2018/09/the-freelancers-guide-to-paying-tax/) - The Freelancer's Guide to Paying Tax
 
 ## Best Udemy Courses
 
