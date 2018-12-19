@@ -41,6 +41,11 @@ to contribute Just add your links here
 
  - [Syntax.fm](https://syntax.fm/) - Wes Boss and Scott Tolinski
 
+## Code app samples
+ - Crystal web app to encrypt / decrypt messages 
+[Crystal web app](https://dataencrypt.me) 
+[Bitbucket repo](https://bitbucket.org/mischicanadas/dataencrypt)
+
 ## Add More Categories
 
  
