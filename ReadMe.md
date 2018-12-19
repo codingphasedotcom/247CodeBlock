@@ -2,10 +2,8 @@
 to contribute Just add your links here
 
 ## Learn version control
--[Git Tutorial](https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940)
+-[Git Tutorial](https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940)<br>
 -[Git Markdown](https://guides.github.com/features/mastering-markdown/)
-
-
 ## Best Youtubers
 - [Andy Sterkowitz](https://www.youtube.com/channel/UCZ9qFEC82qM6Pk-54Q4TVWA)
 - [Bulldog Mindset](https://www.youtube.com/channel/UCFxdcuY-S6yjZGq_2cjilHg)
