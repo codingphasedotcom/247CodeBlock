@@ -7,7 +7,7 @@ to contribute Just add your links here
 ## Best Youtubers (Listed Alphabetically)
 [Andy Sterkowitz](https://www.youtube.com/channel/UCZ9qFEC82qM6Pk-54Q4TVWA)
 [CodingPhase](https://www.youtube.com/channel/UC46wWUso9H5KPQcoL9iE3Ug)
-[Joshua Fluke] (https://www.youtube.com/channel/UC-91UA-Xy2Cvb98deRXuggA)
+[Joshua Fluke](https://www.youtube.com/channel/UC-91UA-Xy2Cvb98deRXuggA)
 [onlineTutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
 [TechSith Tutorials](https://www.youtube.com/channel/UCbGZKLIHpox2l0whz6_RYyg "TechSith Tutorials")
 [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
