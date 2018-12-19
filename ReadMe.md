@@ -15,11 +15,11 @@ https://www.youtube.com/channel/UC-91UA-Xy2Cvb98deRXuggA
 https://www.youtube.com/user/jsonmez
 ## Best Udemy Courses
 
-Mike Torres: If I am adding any resources that means I have given the course 4-5 stars as well as completing them.
-Mike Torres: https://www.udemy.com/the-ultimate-javascript-course-build-real-world-apps2018/learn/v4/overview
-Mike Torres: https://www.udemy.com/understand-javascript/learn/v4/overview
-Mike Torres: https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/learn/v4/overview
-Mike Torres: https://www.udemy.com/react-redux/learn/v4/overview
+Mike Torres: If I am adding any resources that means I have given the course 4-5 stars as well as completing them. <br>
+Mike Torres: https://www.udemy.com/the-ultimate-javascript-course-build-real-world-apps2018/learn/v4/overview <br>
+Mike Torres: https://www.udemy.com/understand-javascript/learn/v4/overview <br>
+Mike Torres: https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/learn/v4/overview <br>
+Mike Torres: https://www.udemy.com/react-redux/learn/v4/overview <br>
 
 ## Best Instructor Websites
 
