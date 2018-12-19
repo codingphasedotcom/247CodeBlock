@@ -1,6 +1,8 @@
 # Open Source Resource Website
 to contribute Just add your links here
 
+## Learn version control
+[Git Tutorial](https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940)
 ## Best Youtubers
 [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
 ## Best Udemy Courses
