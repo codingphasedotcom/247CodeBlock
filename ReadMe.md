@@ -1,8 +1,8 @@
 # Open Source Resource Website
 to contribute Just add your links here
 
-## Learn version control
-[Git Tutorial](https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940)
+## Rules
+- Pull the latest code from master before you add your pull request or changes to not have so many conflicts
 
 ## Best Youtubers
 - [Andy Sterkowitz](https://www.youtube.com/channel/UCZ9qFEC82qM6Pk-54Q4TVWA)
