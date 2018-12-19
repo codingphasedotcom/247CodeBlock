@@ -20,7 +20,7 @@ to contribute Just add your links here
 [FreeCodeCamp](https://freecodecamp.org)
 
 ## Best Paid Platforms
-[Treehouse](https://teamtreehouse.com/home)
+- [Treehouse](https://teamtreehouse.com/home)
 
 ### Javascript
  - [OOP Javscript](https://www.udemy.com/javascript-object-oriented-programming/) - Mosh Hamedani
