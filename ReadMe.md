@@ -37,3 +37,5 @@ to contribute Just add your links here
  - [Syntax.fm](https://syntax.fm/) - Wes Boss and Scott Tolinski
 
 ## Add More Categories
+
+ - [Web Designer Depot](https://www.webdesignerdepot.com/2018/09/the-freelancers-guide-to-paying-tax/) - The Freelancer's Guide to Paying Tax
