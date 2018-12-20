@@ -93,6 +93,10 @@ to contribute Just add your links here
 
 - [Syntax.fm](https://syntax.fm/) - Wes Boss and Scott Tolinski
 
+## Blogs
+- [Web Designer Depot](https://www.webdesignerdepot.com/2018/09/the-freelancers-guide-to-paying-tax/) - The Freelancer's Guide to Paying Tax
+
+
 ## Design Resources
 
 - [Undraw.co](https://undraw.co/) - svg Illustrations
@@ -105,9 +109,10 @@ to contribute Just add your links here
 - [Free Images](https://pixabay.com/) - Free Images
 - [Free Images](https://unsplash.com/) - Free Images
 
+## Free Software
+- [Photopea - Photoshop Alternative](https://www.photopea.com/) - free online image editor
+
 ## Code app samples
  - [Crystal web app](https://dataencrypt.me) to encrypt / decrypt messages - [Code repo](https://bitbucket.org/mischicanadas/dataencrypt)
 
 ## Add More Categories
-
-- [Web Designer Depot](https://www.webdesignerdepot.com/2018/09/the-freelancers-guide-to-paying-tax/) - The Freelancer's Guide to Paying Tax
