@@ -66,6 +66,7 @@ to contribute Just add your links here
 ### PHP
 
 - [Learn PHP 7 and Laravel Master Course](https://www.udemy.com/learn-php-7-and-laravel-master-course/) - Joe Santos
+- [Object Oriented PHP & MVC](https://www.udemy.com/object-oriented-php-mvc/) - Brad Traversy
 
 ## Best Udemy Courses
  - [Complete Javascript Course by: Jonas Schmedtmann](https://www.udemy.com/the-complete-javascript-course/ "Complete Javascript Course")
