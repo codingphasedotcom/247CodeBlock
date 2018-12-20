@@ -12,14 +12,17 @@ to contribute Just add your links here
 - Pull the latest code from master before you add your pull request or changes to not have so many conflicts
 
 ## Best Youtubers
-
+- [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
+- [Aaron in Beta](https://www.youtube.com/channel/UCXym52jGe7cb5deJRWM3paw)
 - [Andy Sterkowitz](https://www.youtube.com/channel/UCZ9qFEC82qM6Pk-54Q4TVWA)
 - [Bulldog Mindset](https://www.youtube.com/channel/UCFxdcuY-S6yjZGq_2cjilHg)
+- [Chris Sean](https://www.youtube.com/channel/UCu1xbgCV5o48h_BYCQD7KJg)
 - [CodingPhase](https://www.youtube.com/channel/UC46wWUso9H5KPQcoL9iE3Ug)
 - [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)
 - [Derek Banas](https://www.youtube.com/user/derekbanas)
 - [Design Course](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow) 
 - [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
+- [Dylan Israel](https://www.youtube.com/user/pizzapokerguy87)
 - [java Brains](https://www.youtube.com/user/koushks)
 - [Joshua Fluke](https://www.youtube.com/channel/UC-91UA-Xy2Cvb98deRXuggA)
 - [onlineTutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
@@ -33,9 +36,15 @@ to contribute Just add your links here
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 - [Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw)
 - [mmtuts](https://www.youtube.com/channel/UCzyuZJ8zZ-Lhfnz41DG5qLw)
+## Q/A Blogs
+ - [Fullstack web developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)<br>
+ - [Front-end web developer Interview Questions](https://github.com/srikanthreddy376/Interview-Quesions/blob/master/Interview-FAQ.md)
+ - [Node JS Interview Quesions](https://medium.com/@vigowebs/frequently-asked-node-js-interview-questions-and-answers-b74fa1f20678)
+ - [Web Developer Interview Questions](https://www.codementor.io/blog/web-developer-interview-questions-3ey8yl7epg)
+ - [Full stack Web Developer Interview quesions](https://www.techbeamers.com/top-web-developer-interview-questions/)
+ - [Web Developer Interviewquesions](https://frontendmasters.com/books/front-end-handbook/2018/practice/interview-q.html)
 
 ## Best Instructor Websites
-
 - [CodingPhase](http://codingphase.com/)
 - [LevelUpTuts](https://www.leveluptutorials.com/)
 - [WesBos](https://wesbos.com/)
@@ -73,9 +82,9 @@ to contribute Just add your links here
 ## Best Udemy Courses
  - [Complete Javascript Course by: Jonas Schmedtmann](https://www.udemy.com/the-complete-javascript-course/ "Complete Javascript Course")
  - [Modern React with Redux by: Stephen Grider](https://www.udemy.com/react-redux/ "React/Redux Course")
-
+ - [Java Master course :Tim Bhuchalka](https://www.udemy.com/java-the-complete-java-developer-course/)
+ 
 ## Best Free Themes
-
 - [Wordpress Theme for writers](https://github.com/malithmcr/crafty)
 
 ## Best Bootcamps
