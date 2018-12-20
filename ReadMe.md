@@ -12,14 +12,17 @@ to contribute Just add your links here
 - Pull the latest code from master before you add your pull request or changes to not have so many conflicts
 
 ## Best Youtubers
-
+- [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
+- [Aaron in Beta](https://www.youtube.com/channel/UCXym52jGe7cb5deJRWM3paw)
 - [Andy Sterkowitz](https://www.youtube.com/channel/UCZ9qFEC82qM6Pk-54Q4TVWA)
 - [Bulldog Mindset](https://www.youtube.com/channel/UCFxdcuY-S6yjZGq_2cjilHg)
+- [Chris Sean](https://www.youtube.com/channel/UCu1xbgCV5o48h_BYCQD7KJg)
 - [CodingPhase](https://www.youtube.com/channel/UC46wWUso9H5KPQcoL9iE3Ug)
 - [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)
 - [Derek Banas](https://www.youtube.com/user/derekbanas)
 - [Design Course](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow) 
 - [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
+- [Dylan Israel](https://www.youtube.com/user/pizzapokerguy87)
 - [java Brains](https://www.youtube.com/user/koushks)
 - [Joshua Fluke](https://www.youtube.com/channel/UC-91UA-Xy2Cvb98deRXuggA)
 - [onlineTutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
@@ -70,6 +73,7 @@ to contribute Just add your links here
 ## Best Udemy Courses
  - [Complete Javascript Course by: Jonas Schmedtmann](https://www.udemy.com/the-complete-javascript-course/ "Complete Javascript Course")
  - [Modern React with Redux by: Stephen Grider](https://www.udemy.com/react-redux/ "React/Redux Course")
+ - [Java Master course :Tim Bhuchalka](https://www.udemy.com/java-the-complete-java-developer-course/)
 ## Best Bootcamps
 
 ## Best Laptops
