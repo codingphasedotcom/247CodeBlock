@@ -54,7 +54,9 @@ to contribute Just add your links here
 - [Web Designer Depot](https://www.webdesignerdepot.com/2018/09/the-freelancers-guide-to-paying-tax/) - The Freelancer's Guide to Paying Tax
 - [Practical Javascript](https://watchandcode.com/p/practical-javascript)
 - [Beginners React Guide](https://egghead.io/courses/the-beginner-s-guide-to-react)
+- [Beginners React Guide](https://egghead.io/courses/the-beginner-s-guide-to-react)
 - [Grunt Tutorial](https://24ways.org/2013/grunt-is-not-weird-and-hard/)
+- [Build a Contact Form with React and PHP](https://blog.bitsrc.io/how-to-build-a-contact-form-with-react-js-and-php-d5977c17fec0)
 
 ### Javascript
 
@@ -70,6 +72,11 @@ to contribute Just add your links here
 ## Best Udemy Courses
  - [Complete Javascript Course by: Jonas Schmedtmann](https://www.udemy.com/the-complete-javascript-course/ "Complete Javascript Course")
  - [Modern React with Redux by: Stephen Grider](https://www.udemy.com/react-redux/ "React/Redux Course")
+
+## Best Free Themes
+
+- [Wordpress Theme for writers](https://github.com/malithmcr/crafty)
+
 ## Best Bootcamps
 
 ## Best Laptops
