@@ -2,11 +2,6 @@
 
 to contribute Just add your links here
 
-
-## Learn version control
--[Git Tutorial](https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940)<br>
--[Git Markdown](https://guides.github.com/features/mastering-markdown/)
-
 ## Rules
 
 - Pull the latest code from master before you add your pull request or changes to not have so many conflicts
@@ -58,14 +53,15 @@ to contribute Just add your links here
 - [Treehouse](https://teamtreehouse.com/home)
 
 ## Free Tutorials
-
-- [Git Tutorial](https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940)
+- [Git Tutorial](https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940)<br>
+- [Git Markdown](https://guides.github.com/features/mastering-markdown/)
 - [Web Designer Depot](https://www.webdesignerdepot.com/2018/09/the-freelancers-guide-to-paying-tax/) - The Freelancer's Guide to Paying Tax
 - [Practical Javascript](https://watchandcode.com/p/practical-javascript)
 - [Beginners React Guide](https://egghead.io/courses/the-beginner-s-guide-to-react)
 - [Beginners React Guide](https://egghead.io/courses/the-beginner-s-guide-to-react)
 - [Grunt Tutorial](https://24ways.org/2013/grunt-is-not-weird-and-hard/)
 - [Build a Contact Form with React and PHP](https://blog.bitsrc.io/how-to-build-a-contact-form-with-react-js-and-php-d5977c17fec0)
+
 
 ### Javascript
 
