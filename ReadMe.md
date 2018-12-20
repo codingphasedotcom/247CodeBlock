@@ -26,6 +26,7 @@ to contribute Just add your links here
 ## Best Instructor Websites
 - [CodingPhase](http://codingphase.com/)
 - [LevelUpTuts](https://www.leveluptutorials.com/)
+- [WesBos](https://wesbos.com/)
 
 ## Best Free Platforms
 [FreeCodeCamp](https://freecodecamp.org)
