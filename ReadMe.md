@@ -86,6 +86,8 @@ to contribute Just add your links here
 - [vectr.com](https://vectr.com) - free online vector graphics editor
 - [ionicons.com](https://ionicons.com) - Free icon library
 
+## Photoshop Alternatives
+- [Photopea](https://www.photopea.com/) - free online image editor
 
 ## Code app samples
  - [Crystal web app](https://dataencrypt.me) to encrypt / decrypt messages - [Code repo](https://bitbucket.org/mischicanadas/dataencrypt)
