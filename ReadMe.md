@@ -37,7 +37,7 @@ to contribute Just add your links here
 ## Free Tutorials
 - [Git Tutorial](https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940)
 - [Web Designer Depot](https://www.webdesignerdepot.com/2018/09/the-freelancers-guide-to-paying-tax/) - The Freelancer's Guide to Paying Tax
-
+- [Practical Javascript](https://watchandcode.com/p/practical-javascript)
 ### Javascript
  - [OOP Javscript](https://www.udemy.com/javascript-object-oriented-programming/) - Mosh Hamedani
  - [Learn React by Building Real Projects](https://www.udemy.com/learn-react-by-building-a-real-projects/) - Joe Santos
