@@ -30,6 +30,7 @@ to contribute Just add your links here
 
 - [CodingPhase](http://codingphase.com/)
 - [LevelUpTuts](https://www.leveluptutorials.com/)
+- [WesBos](https://wesbos.com/)
 
 ## Best Free Platforms
 
@@ -43,7 +44,7 @@ to contribute Just add your links here
 
 - [Git Tutorial](https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940)
 - [Web Designer Depot](https://www.webdesignerdepot.com/2018/09/the-freelancers-guide-to-paying-tax/) - The Freelancer's Guide to Paying Tax
-
+- [Practical Javascript](https://watchandcode.com/p/practical-javascript)
 ### Javascript
 
 - [OOP Javscript](https://www.udemy.com/javascript-object-oriented-programming/) - Mosh Hamedani
