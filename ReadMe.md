@@ -102,7 +102,12 @@ to contribute Just add your links here
 - [Undraw.co](https://undraw.co/) - svg Illustrations
 - [vectr.com](https://vectr.com) - free online vector graphics editor
 - [ionicons.com](https://ionicons.com) - Free icon library
-
+- [We Love Icon Fonts](https://weloveiconfonts.com) - Free icon library
+- [Google Fonts](https://fonts.google.com/) - Google fonts
+- [Unicode Table](https://unicode-table.com/en/#control-character) - Unicode Table
+- [Free Logo Maker](https://logomakr.com/) - Free Logo Maker
+- [Free Images](https://pixabay.com/) - Free Images
+- [Free Images](https://unsplash.com/) - Free Images
 
 ## Code app samples
  - [Crystal web app](https://dataencrypt.me) to encrypt / decrypt messages - [Code repo](https://bitbucket.org/mischicanadas/dataencrypt)
