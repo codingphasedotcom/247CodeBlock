@@ -24,7 +24,10 @@ to contribute Just add your links here
 - [onlineTutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
 - [TechSith Tutorials](https://www.youtube.com/channel/UCbGZKLIHpox2l0whz6_RYyg "TechSith Tutorials")
 - [Bulldog Mindset](https://www.youtube.com/channel/UCFxdcuY-S6yjZGq_2cjilHg)
-- [Telusko](https://www.youtube.com/channel/UC59K-uG2A5ogwIrHw4bmlEg) <br>
+- [Telusko](https://www.youtube.com/channel/UC59K-uG2A5ogwIrHw4bmlEg) 
+- [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+- [Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw)
+- [mmtuts](https://www.youtube.com/channel/UCzyuZJ8zZ-Lhfnz41DG5qLw) <br>
 
 ## Best Instructor Websites
 
