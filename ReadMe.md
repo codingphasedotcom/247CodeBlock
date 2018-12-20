@@ -37,9 +37,11 @@ to contribute Just add your links here
 - [Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw)
 - [mmtuts](https://www.youtube.com/channel/UCzyuZJ8zZ-Lhfnz41DG5qLw)
 ## Q/A Blogs
- -[Fullstack web developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)<br>
- -[Front-end web developer Interview Questions](https://github.com/srikanthreddy376/Interview-Quesions/blob/master/Interview-FAQ.md)<br>
- -[Node JS Interview Quesions](https://medium.com/@vigowebs/frequently-asked-node-js-interview-questions-and-answers-b74fa1f20678)
+ - [Fullstack web developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)<br>
+ - [Front-end web developer Interview Questions](https://github.com/srikanthreddy376/Interview-Quesions/blob/master/Interview-FAQ.md)
+ - [Node JS Interview Quesions](https://medium.com/@vigowebs/frequently-asked-node-js-interview-questions-and-answers-b74fa1f20678)
+ - [Web Developer Interview Questions](https://www.codementor.io/blog/web-developer-interview-questions-3ey8yl7epg)
+ - [50 web Developer Interview quesions] (https://www.techbeamers.com/top-web-developer-interview-questions/)
 
 ## Best Instructor Websites
 - [CodingPhase](http://codingphase.com/)
