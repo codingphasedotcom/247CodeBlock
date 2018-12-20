@@ -34,7 +34,7 @@ to contribute Just add your links here
 
 ## Best Free Platforms
 
-[FreeCodeCamp](https://freecodecamp.org)
+- [FreeCodeCamp](https://freecodecamp.org)
 
 ## Best Paid Platforms
 
@@ -73,6 +73,8 @@ to contribute Just add your links here
 
 - [Undraw.co](https://undraw.co/) - svg Illustrations
 - [vectr.com](https://vectr.com) - free online vector graphics editor
+- [ionicons.com](https://ionicons.com) - Free icon library
+
 
 ## Code app samples
  - [Crystal web app](https://dataencrypt.me) to encrypt / decrypt messages - [Code repo](https://bitbucket.org/mischicanadas/dataencrypt)
