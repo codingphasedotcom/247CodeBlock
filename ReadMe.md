@@ -2,6 +2,11 @@
 
 to contribute Just add your links here
 
+
+## Learn version control
+-[Git Tutorial](https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940)<br>
+-[Git Markdown](https://guides.github.com/features/mastering-markdown/)
+
 ## Rules
 
 - Pull the latest code from master before you add your pull request or changes to not have so many conflicts
@@ -9,22 +14,25 @@ to contribute Just add your links here
 ## Best Youtubers
 
 - [Andy Sterkowitz](https://www.youtube.com/channel/UCZ9qFEC82qM6Pk-54Q4TVWA)
-- [CodingPhase](https://www.youtube.com/channel/UC46wWUso9H5KPQcoL9iE3Ug)
-- [Derek Banas](https://www.youtube.com/user/derekbanas)
-- [programming Knowledge](https://www.youtube.com/user/ProgrammingKnowledge)
-- [java Brains](https://www.youtube.com/user/koushks)
-- [stefan Mischook](https://www.youtube.com/user/killerphp)
 - [Bulldog Mindset](https://www.youtube.com/channel/UCFxdcuY-S6yjZGq_2cjilHg)
-- [codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw) <br>
 - [CodingPhase](https://www.youtube.com/channel/UC46wWUso9H5KPQcoL9iE3Ug)
-- [Design Course](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow) <br>
+- [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)
+- [Derek Banas](https://www.youtube.com/user/derekbanas)
+- [Design Course](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow) 
 - [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
-- [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
+- [java Brains](https://www.youtube.com/user/koushks)
 - [Joshua Fluke](https://www.youtube.com/channel/UC-91UA-Xy2Cvb98deRXuggA)
 - [onlineTutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
+- [programming Knowledge](https://www.youtube.com/user/ProgrammingKnowledge)
+- [stefan Mischook](https://www.youtube.com/user/killerphp) 
 - [TechSith Tutorials](https://www.youtube.com/channel/UCbGZKLIHpox2l0whz6_RYyg "TechSith Tutorials")
+- [Telusko](https://www.youtube.com/channel/UC59K-uG2A5ogwIrHw4bmlEg) 
+- [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
 - [Bulldog Mindset](https://www.youtube.com/channel/UCFxdcuY-S6yjZGq_2cjilHg)
-- [Telusko](https://www.youtube.com/channel/UC59K-uG2A5ogwIrHw4bmlEg) <br>
+- [Telusko](https://www.youtube.com/channel/UC59K-uG2A5ogwIrHw4bmlEg) 
+- [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+- [Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw)
+- [mmtuts](https://www.youtube.com/channel/UCzyuZJ8zZ-Lhfnz41DG5qLw)
 
 ## Best Instructor Websites
 
@@ -34,7 +42,7 @@ to contribute Just add your links here
 
 ## Best Free Platforms
 
-[FreeCodeCamp](https://freecodecamp.org)
+- [FreeCodeCamp](https://freecodecamp.org)
 
 ## Best Paid Platforms
 
@@ -76,6 +84,8 @@ to contribute Just add your links here
 
 - [Undraw.co](https://undraw.co/) - svg Illustrations
 - [vectr.com](https://vectr.com) - free online vector graphics editor
+- [ionicons.com](https://ionicons.com) - Free icon library
+
 
 ## Code app samples
  - [Crystal web app](https://dataencrypt.me) to encrypt / decrypt messages - [Code repo](https://bitbucket.org/mischicanadas/dataencrypt)
