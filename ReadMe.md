@@ -57,5 +57,8 @@ to contribute Just add your links here
 ## Podcasts 
  - [Syntax.fm](https://syntax.fm/) - Wes Boss and Scott Tolinski
 
+## Code app samples
+ - [Crystal web app](https://dataencrypt.me) to encrypt / decrypt messages - [Code repo](https://bitbucket.org/mischicanadas/dataencrypt)
+
 ## Add More Categories
  - [Web Designer Depot](https://www.webdesignerdepot.com/2018/09/the-freelancers-guide-to-paying-tax/) - The Freelancer's Guide to Paying Tax
