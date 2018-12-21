@@ -111,8 +111,8 @@ to contribute Just add your links here
 - [Google Fonts](https://fonts.google.com/) - Google fonts
 - [Unicode Table](https://unicode-table.com/en/#control-character) - Unicode Table
 - [Free Logo Maker](https://logomakr.com/) - Free Logo Maker
-- [Free Images](https://pixabay.com/) - Free Images
-- [Free Images](https://unsplash.com/) - Free Images
+- [Free Images - pixabay](https://pixabay.com/) - Free Images
+- [Free Images - usplash](https://unsplash.com/) - Free Images
 
 ## Free Software
 - [Photopea - Photoshop Alternative](https://www.photopea.com/) - free online image editor
