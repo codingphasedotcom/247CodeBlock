@@ -41,8 +41,15 @@ to contribute Just add your links here
  - [Front-end web developer Interview Questions](https://github.com/srikanthreddy376/Interview-Quesions/blob/master/Interview-FAQ.md)
  - [Node JS Interview Quesions](https://medium.com/@vigowebs/frequently-asked-node-js-interview-questions-and-answers-b74fa1f20678)
  - [Web Developer Interview Questions](https://www.codementor.io/blog/web-developer-interview-questions-3ey8yl7epg)
- - [Full stack Web Developer Interview quesions](https://www.techbeamers.com/top-web-developer-interview-questions/)
- - [Web Developer Interviewquesions](https://frontendmasters.com/books/front-end-handbook/2018/practice/interview-q.html)
+ - [Full stack Web Developer Interview questions](https://www.techbeamers.com/top-web-developer-interview-questions/)
+ - [Web Developer Interview questions](https://frontendmasters.com/books/front-end-handbook/2018/practice/interview-q.html)
+ 
+## Quick References
+ - [HTML Reference](https://htmlreference.io/)
+ - [CSS Reference](https://cssreference.io/)
+ - [JavaScript Reference ](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+ - [CSS Color Picker Reference](https://www.w3schools.com/colors/colors_picker.asp)
+ - [Bootstrap Classes Reference](https://www.w3schools.com/bootstrap/bootstrap_ref_all_classes.asp)
 
 ## Best Instructor Websites
 - [CodingPhase](http://codingphase.com/)
