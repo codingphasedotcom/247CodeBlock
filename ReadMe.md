@@ -77,6 +77,7 @@ to contribute Just add your links here
 
 ## Best Udemy Courses
  - [Complete Javascript Course by: Jonas Schmedtmann](https://www.udemy.com/the-complete-javascript-course/ "Complete Javascript Course")
+ - [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/advanced-css-and-sass)
  - [Modern React with Redux by: Stephen Grider](https://www.udemy.com/react-redux/ "React/Redux Course")
  - [Java Master course :Tim Bhuchalka](https://www.udemy.com/java-the-complete-java-developer-course/)
  
@@ -114,5 +115,9 @@ to contribute Just add your links here
 
 ## Code app samples
  - [Crystal web app](https://dataencrypt.me) to encrypt / decrypt messages - [Code repo](https://bitbucket.org/mischicanadas/dataencrypt)
+
+## Miscellaneous
+
+- [Coding Heroes Resources](http://codingheroes.io/resources/)
 
 ## Add More Categories
