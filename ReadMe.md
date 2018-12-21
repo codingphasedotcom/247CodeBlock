@@ -59,8 +59,8 @@ to contribute Just add your links here
  - [Google Fonts Reference](https://fonts.google.com/)
  
 ## Images/Templates/Designs/Hd photos
-  -[Pexels.com](https://www.pexels.com/)
-  -[Dribbble.com](https://dribbble.com/)
+ - [Pexels.com](https://www.pexels.com/)
+ - [Dribbble.com](https://dribbble.com/)
 
 ## Best Instructor Websites
 - [CodingPhase](http://codingphase.com/)
