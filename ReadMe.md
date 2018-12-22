@@ -109,6 +109,22 @@ to contribute Just add your links here
 ## Best Bootcamps
 
 ## Best Laptops
+The laptop market is very diverse and finding the best laptop for you can be quite a mission. Everybody has their own opinion on what the best laptop is because it's a subjective question that depends on personal wants and needs. There are so many factors that go into choosing the right laptop for you, such as:
+- How much does it cost? and is it still a good deal in your country?
+- How mobile do you need to be and will the battery last long enough?
+- What operating system do you prefer? Simplicity of MacOS? Versatility of Windows? Freedom of a Linux distro?
+- What else do you use it for? Maybe you want enough power to play video games?
+- What screen size do you want? and is it suitable outdoors / in sunlight?
+
+...and the list goes on, and that's not even talking about specific hardware. Generally any computer nowadays is powerful enough to be used to code, however choosing less powerful laptops impact how fast it works. They startup slower, launch programs slower, start services slower, you get the picture... but if you're budget doesnt extend enough to get the model with an SSD or twice the RAM, you don't need to worry that much.
+
+Here are some good videos for choosing the right laptop for you:
+- [10 Tips by The Tech Chap](https://www.youtube.com/watch?v=33_XesFphn4)
+- [Buyers Guide by CNET](https://www.youtube.com/watch?v=43ERLBJv0lM)
+
+Always look at reviews and look at the comments about the reviews. It's a good place to discover any deal-breaking flaws about the system, and comments often have unsatisfied long-term owners. Looking up the model number and seeing what google suggests can also show common problems.
+
+I have tried to keep this bias free and open-minded, feel free to add anything you want :)
 
 ## Best Gear
 
