@@ -110,6 +110,8 @@ to contribute Just add your links here
 ## Best Bootcamps
 
 ## Best Laptops
+- [10 Tips for Buying a Laptop 2018 by The Tech Chap](https://www.youtube.com/watch?v=33_XesFphn4)
+- [Laptop Buyers Guide by CNET](https://www.youtube.com/watch?v=43ERLBJv0lM)
 
 ## Best Gear
 
