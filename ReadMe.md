@@ -60,6 +60,8 @@ to contribute Just add your links here
 ## Images/Templates/Designs/Hd photos
  - [Pexels.com](https://www.pexels.com/)
  - [Dribbble.com](https://dribbble.com/)
+ - [Canva.com](https://www.canva.com/photos/free/)
+ - [Stocksnap.com](https://stocksnap.io/)
 
 ## Best Instructor Websites
 - [CodingPhase](http://codingphase.com/)
@@ -152,3 +154,5 @@ to contribute Just add your links here
 
 
 ## Add More Categories
+
+## Best Github Projects  
