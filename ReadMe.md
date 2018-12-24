@@ -34,6 +34,7 @@ to contribute Just add your links here
 - [Telusko](https://www.youtube.com/channel/UC59K-uG2A5ogwIrHw4bmlEg) 
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 - [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
+- [Tony Alicea](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts)
 
 ## Q/A Blogs
  - [Fullstack web developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)<br>
@@ -103,6 +104,7 @@ to contribute Just add your links here
  - [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/advanced-css-and-sass)
  - [Modern React with Redux by: Stephen Grider](https://www.udemy.com/react-redux/ "React/Redux Course")
  - [Java Master course :Tim Bhuchalka](https://www.udemy.com/java-the-complete-java-developer-course/)
+ - [Javascript: Understanding the Weird Parts] (https://www.udemy.com/understand-javascript/)
  
 ## Best Free Themes
 - [Wordpress Theme for writers](https://github.com/malithmcr/crafty)
