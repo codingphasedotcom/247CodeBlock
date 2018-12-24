@@ -146,5 +146,10 @@ to contribute Just add your links here
 
 ## Dev Tools
 - [Trello](https://trello.com) - Kanban online
+- [Atom](https://atom.io) - Atom code editor (free)
+- [Brackets](brackets.io) - Brackets code editor (free)
+- [Visual Studio Code](https://code.visualstudio.com/) - VS Code (free)
+- [Coder's Tool](https://www.coderstool.com/) - Free Online Tools For Programmers
+
 
 ## Add More Categories
