@@ -120,6 +120,7 @@ to contribute Just add your links here
 - [Syntax.fm](https://syntax.fm/) - Wes Boss and Scott Tolinski
 - [React Podcast](https://reactpodcast.simplecast.fm/) - Conversations about React with developers
 - [JavaScript Jabber](https://devchat.tv/js-jabber/) - Podcast on JavaScript 
+- [Front End Happy Hour](https://frontendhappyhour.com/) - A podcast featuring panelists of engineers from @Netflix, @Evernote, @Atlassian & @LinkedIn talking over drinks about all things Front End development.
 
 ## Blogs
 - [Web Designer Depot](https://www.webdesignerdepot.com/2018/09/the-freelancers-guide-to-paying-tax/) - The Freelancer's Guide to Paying Tax
