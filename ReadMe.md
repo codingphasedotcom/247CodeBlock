@@ -71,7 +71,7 @@ to contribute Just add your links here
 
 - [FreeCodeCamp](https://freecodecamp.org)
 - [javaTpoint](https://www.javatpoint.com/)
-- [Learn-Anything](https://www.tutorialspoint.com/)
+- [Learn-Anything](https://www.tutorialspoint.com/tutorialslibrary.htm)
 
 ## Best Paid Platforms
 
