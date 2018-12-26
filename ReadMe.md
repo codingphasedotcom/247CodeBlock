@@ -70,6 +70,8 @@ to contribute Just add your links here
 ## Best Free Platforms
 
 - [FreeCodeCamp](https://freecodecamp.org)
+- [javaTpoint](https://www.javatpoint.com/)
+- [Learn-Anything](https://www.tutorialspoint.com/)
 
 ## Best Paid Platforms
 
