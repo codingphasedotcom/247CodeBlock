@@ -34,6 +34,7 @@ to contribute Just add your links here
 - [Telusko](https://www.youtube.com/channel/UC59K-uG2A5ogwIrHw4bmlEg) 
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 - [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
+- [Tony Alicea](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts)
 
 ## Q/A Blogs
  - [Fullstack web developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)<br>
@@ -60,6 +61,8 @@ to contribute Just add your links here
 ## Images/Templates/Designs/Hd photos
  - [Pexels.com](https://www.pexels.com/)
  - [Dribbble.com](https://dribbble.com/)
+ - [Canva.com](https://www.canva.com/photos/free/)
+ - [Stocksnap.com](https://stocksnap.io/)
 
 ## Best Instructor Websites
 - [CodingPhase](http://codingphase.com/)
@@ -69,6 +72,8 @@ to contribute Just add your links here
 ## Best Free Platforms
 
 - [FreeCodeCamp](https://freecodecamp.org)
+- [javaTpoint](https://www.javatpoint.com/)
+- [Learn-Anything](https://www.tutorialspoint.com/tutorialslibrary.htm)
 
 ## Best Paid Platforms
 
@@ -79,7 +84,6 @@ to contribute Just add your links here
 - [Git Markdown](https://guides.github.com/features/mastering-markdown/)
 - [Web Designer Depot](https://www.webdesignerdepot.com/2018/09/the-freelancers-guide-to-paying-tax/) - The Freelancer's Guide to Paying Tax
 - [Practical Javascript](https://watchandcode.com/p/practical-javascript)
-- [Beginners React Guide](https://egghead.io/courses/the-beginner-s-guide-to-react)
 - [Beginners React Guide](https://egghead.io/courses/the-beginner-s-guide-to-react)
 - [Grunt Tutorial](https://24ways.org/2013/grunt-is-not-weird-and-hard/)
 - [Build a Contact Form with React and PHP](https://blog.bitsrc.io/how-to-build-a-contact-form-with-react-js-and-php-d5977c17fec0)
@@ -102,6 +106,7 @@ to contribute Just add your links here
  - [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/advanced-css-and-sass)
  - [Modern React with Redux by: Stephen Grider](https://www.udemy.com/react-redux/ "React/Redux Course")
  - [Java Master course :Tim Bhuchalka](https://www.udemy.com/java-the-complete-java-developer-course/)
+ - [Javascript: Understanding the Weird Parts] (https://www.udemy.com/understand-javascript/)
  
 ## Best Free Themes
 - [Wordpress Theme for writers](https://github.com/malithmcr/crafty)
@@ -109,6 +114,8 @@ to contribute Just add your links here
 ## Best Bootcamps
 
 ## Best Laptops
+- [10 Tips for Buying a Laptop 2018 by The Tech Chap](https://www.youtube.com/watch?v=33_XesFphn4)
+- [Laptop Buyers Guide by CNET](https://www.youtube.com/watch?v=43ERLBJv0lM)
 
 ## Best Gear
 
@@ -117,6 +124,7 @@ to contribute Just add your links here
 - [Syntax.fm](https://syntax.fm/) - Wes Boss and Scott Tolinski
 - [React Podcast](https://reactpodcast.simplecast.fm/) - Conversations about React with developers
 - [JavaScript Jabber](https://devchat.tv/js-jabber/) - Podcast on JavaScript 
+- [Front End Happy Hour](https://frontendhappyhour.com/) - A podcast featuring panelists of engineers from @Netflix, @Evernote, @Atlassian & @LinkedIn talking over drinks about all things Front End development.
 
 ## Blogs
 - [Web Designer Depot](https://www.webdesignerdepot.com/2018/09/the-freelancers-guide-to-paying-tax/) - The Freelancer's Guide to Paying Tax
@@ -146,5 +154,12 @@ to contribute Just add your links here
 
 ## Dev Tools
 - [Trello](https://trello.com) - Kanban online
+- [Atom](https://atom.io) - Atom code editor (free)
+- [Brackets](brackets.io) - Brackets code editor (free)
+- [Visual Studio Code](https://code.visualstudio.com/) - VS Code (free)
+- [Coder's Tool](https://www.coderstool.com/) - Free Online Tools For Programmers
+- [Prepros](https://prepros.io/) - CSS preprocessor compiler with live reload (free w/ ads)
 
 ## Add More Categories
+
+## Best Github Projects  
