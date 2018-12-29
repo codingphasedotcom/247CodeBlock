@@ -163,3 +163,5 @@ to contribute Just add your links here
 ## Add More Categories
 
 ## Best Github Projects  
+
+## Resources for non-English Speakers
