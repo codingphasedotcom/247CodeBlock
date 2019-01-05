@@ -126,6 +126,10 @@ to contribute Just add your links here
 - [React Podcast](https://reactpodcast.simplecast.fm/) - Conversations about React with developers
 - [JavaScript Jabber](https://devchat.tv/js-jabber/) - Podcast on JavaScript 
 - [Front End Happy Hour](https://frontendhappyhour.com/) - A podcast featuring panelists of engineers from @Netflix, @Evernote, @Atlassian & @LinkedIn talking over drinks about all things Front End development.
+- [CSS-Tricks Screencasts](https://player.fm/series/css-tricks-screencasts) - CSS-Tricks Screencasts is focused on showing you tips, tricks, techniques about web design. 
+- [React30](https://player.fm/series/react30) - A 30-minute podcast about React and all things JavaScript
+- [Toolsday](https://player.fm/series/series-1949129) -  Toolsday is about the latest in tech tools, tips, and tricks on Tuesdays at 2.
+- [Node University](https://player.fm/series/node-university) - Short lectures on software development with Node.js, JavaScript, and React. 
 
 ## Blogs
 - [Web Designer Depot](https://www.webdesignerdepot.com/2018/09/the-freelancers-guide-to-paying-tax/) - The Freelancer's Guide to Paying Tax
