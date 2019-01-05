@@ -164,6 +164,10 @@ to contribute Just add your links here
 - [Visual Studio Code](https://code.visualstudio.com/) - VS Code (free)
 - [Coder's Tool](https://www.coderstool.com/) - Free Online Tools For Programmers
 - [Prepros](https://prepros.io/) - CSS preprocessor compiler with live reload (free w/ ads)
+- [DevDocs](https://devdocs.io/) - multiple API documentations
+- [RescueTime](https://www.rescuetime.com/) - improves developer's productivity
+- [Sublime](http://www.sublimetext.com/2) - Sublime code editor (free)
+- [SourceTree](http://www.sourcetreeapp.com/) - graphic user interface for Git
 
 ## Add More Categories
 
