@@ -130,7 +130,7 @@ to contribute Just add your links here
 - [CSS-Tricks Screencasts](https://player.fm/series/css-tricks-screencasts) - CSS-Tricks Screencasts is focused on showing you tips, tricks, techniques about web design. 
 - [React30](https://player.fm/series/react30) - A 30-minute podcast about React and all things JavaScript
 - [Toolsday](https://player.fm/series/series-1949129) -  Toolsday is about the latest in tech tools, tips, and tricks on Tuesdays at 2.
-- [Node University](https://player.fm/series/node-university) - Short lectures on software development with Node.js, JavaScript, and React. 
+- [Node University](https://player.fm/series/node-university) - Short lectures on software development with Node.js, JavaScript, and React.
 
 ## Blogs
 - [Web Designer Depot](https://www.webdesignerdepot.com/2018/09/the-freelancers-guide-to-paying-tax/) - The Freelancer's Guide to Paying Tax
@@ -147,6 +147,8 @@ to contribute Just add your links here
 - [Free Logo Maker](https://logomakr.com/) - Free Logo Maker
 - [Free Images - pixabay](https://pixabay.com/) - Free Images
 - [Free Images - usplash](https://unsplash.com/) - Free Images
+- [Font Pairing - fontjoy.com](https://fontjoy.com/) - Deep learning Google font pairing
+- [Color Scheme Generator - colormind.io](http://colormind.io/) - Deep learning color scheme generator
 
 ## Free Software
 - [Photopea - Photoshop Alternative](https://www.photopea.com/) - free online image editor
